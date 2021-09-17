@@ -1,0 +1,2 @@
+className = com.cool.ldp.reflection.Student
+methodName = main
